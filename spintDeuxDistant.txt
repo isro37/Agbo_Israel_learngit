@@ -3,3 +3,5 @@ Je veux pouvoir inscrire des directeurs à des classes.
 Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonction des cours et des enseignements disponibles.
 
 En tant que directeur d'études, je veux pouvopir exporter les emplois de temps au format PDF ou Excel."
+
+Sprint 3:Améliorations et personnalisation
