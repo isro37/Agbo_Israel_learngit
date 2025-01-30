@@ -1,3 +1,3 @@
-" En tant que directeur d'études, je veux pouvoir créer, modifier et supprimer des classes (nom,niveau,spécialité)
+" En tant que directeur d'études, je veux pouvoir créer, modifier et supprimer des classes (nom,niveau,spécialité).
 Je veux pouvoir inscrire des directeurs à des classes
 Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonction des cours et des enseuignements disponibles.
